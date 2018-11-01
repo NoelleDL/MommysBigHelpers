@@ -1,11 +1,6 @@
 import React from 'react';
 
 export default class Chores extends React.Component {
-  constructor(props) {
-    super(props);
-  
-    }
-
   render() {
     const chores = [
       "clean bathroom sink - upstairs",
