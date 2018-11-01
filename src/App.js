@@ -7,10 +7,11 @@ import Chores from './chores';
 class App extends Component {
   render() {
     return (
-      <div class="container">
-        <div class="row">
-          <button type="button" class="btn btn-info btn-lg">Mom, please let me help!</button>
-        <Chores />
+      <div>
+        <div class="container">
+          <header class="jumbotron my-4">
+            <Chores />
+            </header>
         </div>
       </div>
     );

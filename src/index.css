@@ -1,5 +1,21 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+}
+
+.motivation {
+  font-family:'Mali', cursive;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.chore {
+  font-family: 'Mali', cursive;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.intro {
+  font-family: 'Lobster';
+  font-size: 20px; 
 }
